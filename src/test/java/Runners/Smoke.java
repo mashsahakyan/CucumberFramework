@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
         //it keeps the console output for the cucumber test easily readable
         //it will remove all the unreadable character
         monochrome = true,
-        tags = "@BBproject"
+        tags = "@review"
         //plugin = {"pretty", "html:target/cucumber.html", "json:target/cucumber.json"}
         //plugin - we use it to generate report for the execution
         //pretty - it takes care of printing the steps in console
