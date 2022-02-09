@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1000500,
+              "duration": 999800,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-12-11T18:35:46.058Z",
+        "start_timestamp": "2022-02-09T19:06:18.969Z",
         "line": 25,
         "name": "Create dynamic scenario",
         "description": "",
@@ -69,7 +69,7 @@
                   "offset": 122
                 }
               ],
-              "location": "APISteps.APIWorkFlowSteps.a_request_is_prepared_for_creating_an_employee_with_dynamic_data(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+              "location": "APISteps.APIWorkflowSteps.a_request_is_prepared_for_creating_an_employee_with_dynamic_data(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
             },
             "keyword": "Given "
           }
@@ -85,7 +85,7 @@
     "description": "",
     "id": "syntax-hrm-api-workflow",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/APIWorkFlow.feature",
+    "uri": "file:src/test/resources/features/APIWorkflow.feature",
     "tags": []
   }
 ]
